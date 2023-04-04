@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Meu primeiro aplicativo web com NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoria-pires23/node-js.git"
+  },
+  "author": "Vitória Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoria-pires23/node-js/issues"
+  },
+  "homepage": "https://github.com/vitoria-pires23/node-js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
