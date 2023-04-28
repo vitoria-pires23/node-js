@@ -11,7 +11,7 @@ var transporter = nodemailer.createTransport({
 var mailOptions = {
   from: 'vitoria.pires23.03@gmail.com',
   to: 'raissaluiz07@gmail.com',
-  subject: 'Se não de certo eu choro',
+  subject: 'S',
   text: 'That was NOT easy!'
 };
 
